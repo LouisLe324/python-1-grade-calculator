@@ -1,5 +1,5 @@
-labs = input("Enter the number of labs completed: ")
-quiz = input("Enter the number of quizzes completed: ")
+labs = input("Enter the number of labs completed (up to 6): ")
+quiz = input("Enter the number of quizzes completed (up to 6) : ")
 ass1 = input("Enter the grade received for Assignment 1: ")
 ass2 = input("Enter the grade received for Assignment 2: ")
 ass3 = input("Enter the grade received for Assignment 3: ")
